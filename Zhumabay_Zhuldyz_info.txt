@@ -1,0 +1,5 @@
+Name: Zhuldyz
+Surname: Zhumabay
+Group: IT2-2308
+Student ID: 37947
+Course: DevOps

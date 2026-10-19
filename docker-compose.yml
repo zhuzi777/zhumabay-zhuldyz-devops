@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: zhumabay-zhuldyz-devops
+    container_name: zhumabay-zhuldyz-container
+    environment:
+      STUDENT_NAME: Zhuldyz
+      STUDENT_SURNAME: Zhumabay
+      STUDENT_GROUP: IT2-2308
+      STUDENT_ID: "37947"
